@@ -6,7 +6,6 @@
     "dev": "next dev --port 3457",
     "build": "next build",
     "deploy": "next build && wrangler deploy",
-    "start": "next start",
     "lint": "eslint",
     "test": "vitest run"
   },
