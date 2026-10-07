@@ -114,7 +114,7 @@ function GeneratorApp() {
       >
         LP構成ジェネレーター by{" "}
         <a
-          href="https://my-portfolio-mocha-three-93.vercel.app/"
+          href="https://my-portfolio.parhelion-agent.workers.dev/"
           className="transition-colors"
           style={{
             color: "var(--text-secondary)",
